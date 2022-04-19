@@ -7,6 +7,7 @@ in order for the final file to look like the original files from Franzosa et al.
 """
 
 # save strings for file name
+DATA_DIR = "./data"
 body_site = "feces"
 classifier = "rdp6"
 project = "moms-pi"

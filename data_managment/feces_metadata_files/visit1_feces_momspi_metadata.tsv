@@ -1,0 +1,2 @@
+subject_id	file_id	md5	size	urls	sample_id	subject_uuid	sample_body_site	visit_number	subject_gender	subject_race	study_full_name	project_name
+EP175511	6d91411d5ede0689305232cc773d0724	e47ddccf2ad70ed9c78c94dfa957ac22	256000	https://downloads.hmpdacc.org/ihmp/ptb/genome/microbiome/16s/raw/EP175511_K10_BS1D.rawseqset.tar	e50d0c183689e4053ccb35f8b2ed19a3	858ed4564f11795ec13dda4c10a238f2	feces	1	female	None	momspi	Integrative Human Microbiome Project
